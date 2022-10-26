@@ -3,7 +3,7 @@
 
 ## Introduce myself
 
-[Introduce](https://tirhande.github.io/introduce/)  
+[Introduce Demo Page](https://tirhande.github.io/introduce/)  
 ![데모 이미지](https://github.com/tirhande/test_repo/blob/b51960c37e966083b5c34ec55c38b64f267b0bdf/introduce.png "데모 이미지")
 <div align=center>
 
