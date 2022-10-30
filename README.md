@@ -4,7 +4,8 @@
 ## Introduce myself
 
 [Introduce Demo Page](https://tirhande.github.io/introduce/)  
-![데모 이미지](https://github.com/tirhande/test_repo/blob/b51960c37e966083b5c34ec55c38b64f267b0bdf/introduce.png "데모 이미지")
+<br />
+<img width="953" alt="introduce" src="https://user-images.githubusercontent.com/74575497/198879085-8153f265-ad72-409e-8dc5-ddb6f3fea5c2.png">
 
 <!--
 <div align=center>
