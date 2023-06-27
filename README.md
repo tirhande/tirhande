@@ -2,10 +2,11 @@
 
 
 ## Introduce myself
+[Kimkyunghun Resume](https://kimkyunghun-resume.vercel.app/)
 
 [Introduce Page](https://introduce-azure.vercel.app/)  
-<br />
-<img width="953" alt="introduce" src="https://user-images.githubusercontent.com/74575497/198879085-8153f265-ad72-409e-8dc5-ddb6f3fea5c2.png">
+
+<!-- <img width="953" alt="introduce" src="https://user-images.githubusercontent.com/74575497/198879085-8153f265-ad72-409e-8dc5-ddb6f3fea5c2.png"> -->
 
 <!--
 <div align=center>
